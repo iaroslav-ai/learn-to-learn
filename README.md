@@ -15,7 +15,6 @@ without fine tuning and associated hyperparameter search and computational compl
 One example applicaiton for such models could be to object segmentation or
 tracking in video.
 
-**This repository is work in progress.**
 
 ## General description
 
@@ -55,3 +54,5 @@ requires further parameter tuning. Note also that some digits are confusing
 (eg 1 and 7) in MNIST, and as even one digit recognized wrongly causes
 false negative, thus ideal error rate with two digit numbers is expected
 to be higher that that of MNIST itself.
+
+**This repository is work in progress. A few updates are coming soon.**
