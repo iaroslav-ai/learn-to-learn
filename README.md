@@ -23,7 +23,7 @@ To implement joint learning with neural networks and knowledge transfer,
 the following architecture is proposed:
 
 <p align="center">
-<img src="https://github.com/iaroslav-ai/learn-to-learn/blob/master/images/general_scheme.jpg?raw=true" alt="Generic optimization problem" height="78px" />
+<img src="https://github.com/iaroslav-ai/learn-to-learn/blob/master/images/general_scheme.jpg?raw=true" alt="Generic optimization problem" />
 </p>
 
 In this architecture, "learner" network takes as input a training dataset,
@@ -44,7 +44,7 @@ is as follows: given one example of image of two digit number (based on MNIST)
 detect whether an unlabeled image contains same number, eg see figure below:
 
 <p align="center">
-<img src="https://github.com/iaroslav-ai/learn-to-learn/blob/master/images/two_digit_example.jpg?raw=true" alt="Generic optimization problem" height="78px" />
+<img src="https://github.com/iaroslav-ai/learn-to-learn/blob/master/images/two_digit_example.jpg?raw=true" alt="Generic optimization problem"/>
 </p>
 
 One can find the code implementing this in `mnist_example/main.py`. With
